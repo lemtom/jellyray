@@ -1,4 +1,4 @@
-# Jellyray: The Blu-ray.com to Jellyfin Synchronizer
+# Jellyray
 
 Python script which automatically creates Jellyfin placeholder files from your Blu-ray.com collection export.
 
